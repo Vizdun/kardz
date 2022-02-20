@@ -1,0 +1,15 @@
+Operations
+
+ # insert
+ * remove
+ > pushback
+ < bringforward
+
+ + increment
+ - decrement
+[] loop
+ , stdin
+ . stdout
+ ~ upperop
+{} comment
+
